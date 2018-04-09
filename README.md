@@ -1,0 +1,2 @@
+# Puzzles
+Algorithm practise
