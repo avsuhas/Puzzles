@@ -2,4 +2,3 @@ First git file
 
 changing for first commit
 
-changed by others
